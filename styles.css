@@ -1,0 +1,21 @@
+/* Custom styles for Haslet TX Dental Practice landing page */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Additional styles for responsiveness and aesthetics */
+header, footer {
+    background-color: #3b82f6;
+}
+
+h2 {
+    color: #1f2937;
+}
+
+input, textarea {
+    outline-color: #3b82f6;
+}
+
+button:hover {
+    background-color: #2563eb;
+}
